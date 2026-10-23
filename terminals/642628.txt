@@ -1,0 +1,10 @@
+---
+pid: 6000
+cwd: "C:\\Users\\HP Ryzen 5"
+command: "cd \"C:\\Users\\HP Ryzen 5\\.cursor\\projects\\C-Users-HPRYZE-1-AppData-Local-Temp-d0df0a58-13d6-483c-908e-e991fed6c861\\portfolio\"; python -m http.server 8000"
+started_at: 2026-06-07T14:02:14.087Z
+running_for_ms: 155238   
+---
+::1 - - [07/Jun/2026 22:02:31] "GET / HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 22:02:31] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 22:02:31] "GET /script.js HTTP/1.1" 200 -
